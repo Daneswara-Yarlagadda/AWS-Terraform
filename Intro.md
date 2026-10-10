@@ -1,6 +1,3 @@
-from pathlib import Path
-
-content = r"""# Cloud Fundamentals Notes
 
 ## ISP vs CSP vs Infrastructure vs Scaling vs Load Balancer vs DNS Flow
 
